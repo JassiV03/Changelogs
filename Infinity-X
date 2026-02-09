@@ -1,0 +1,5 @@
+Build - 09-02-2026 - V3.6
+
+- Imported WiFiOverlay from sm6150 source
+- Set 90Hz frame rate multiple threshold
+- Misc Changes
